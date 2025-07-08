@@ -1,0 +1,14 @@
+{
+  "favorites": [
+    {
+      "quote": "Life is not about expecting change for the storm to pass, but learning to celebrate in the rain.",
+      "author": "AI Generated",
+      "category": "life",
+      "generated_at": "2025-07-08T02:22:51.319256"
+    }
+  ],
+  "settings": {
+    "auto_show": true,
+    "show_interval": 3600
+  }
+}
